@@ -32,7 +32,9 @@ python3 rpc_gui.py
 ```
 
 Select a game from the GUI to start Rich Presence!
+
 ![image.alt](https://github.com/faraway-world/mobile-discord-game-rpc/blob/bfa6f679d7ed31f9cbfaadab8eeb74a5ef45379d/Screenshot_20250613_131444(1).png)
+
 ## Notes
 
 Requires the Discord desktop app to be running.
