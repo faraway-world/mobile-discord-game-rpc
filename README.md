@@ -8,7 +8,7 @@ A minimal Python app with a GUI to show your current mobile game on Discord usin
 - Black-and-white aesthetic GUI
 - Click to select game — no manual editing
 - Shows game icon and name on Discord
-- 
+  
 ![image.alt](https://github.com/faraway-world/mobile-discord-game-rpc/blob/834e024eb9593a8c19ace5ea4e8d3c7c51492ca0/Screenshot_20250613_131230.png)
 
 ## Setup
